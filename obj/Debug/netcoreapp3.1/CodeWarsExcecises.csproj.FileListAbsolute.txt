@@ -1,0 +1,13 @@
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.exe
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.deps.json
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.runtimeconfig.json
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.runtimeconfig.dev.json
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.dll
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\bin\Debug\netcoreapp3.1\CodeWarsExcecises.pdb
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.csprojAssemblyReference.cache
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.AssemblyInfoInputs.cache
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.AssemblyInfo.cs
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.csproj.CoreCompileInputs.cache
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.dll
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.pdb
+C:\Users\BasselAlnabhan\source\repos\CodeWarsExcecises\obj\Debug\netcoreapp3.1\CodeWarsExcecises.genruntimeconfig.cache
